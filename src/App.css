@@ -6,10 +6,9 @@
   text-align: center;
 }
 .card > h2 {
-font-size: 32px;
-border-radius: 10px;
+  font-size: 32px;
 }
   
 .card > img {
-border-radius: 10px;
+  border-radius: 10px;
 }
