@@ -3,8 +3,20 @@ import './App.css'
 function App() {
   return (
     <>
-      <div>
-        <h2> Clemilton Silva</h2>
+      <div className="card">
+        <h2> Rich Sanchez</h2>
+        <img src="https://rickandmortyapi.com/api/character/avatar/1.jpeg" />
+      </div>
+      <div className="card">
+        <h2> Sammer Smith</h2>
+        <img src="https://rickandmortyapi.com/api/character/avatar/1.jpeg" />
+      </div>
+      <div className="card">
+        <h2> Morty Smith</h2>
+        <img src="https://rickandmortyapi.com/api/character/avatar/1.jpeg" />
+      </div>
+      <div className="card">
+        <h2> Beth Smith</h2>
         <img src="https://rickandmortyapi.com/api/character/avatar/1.jpeg" />
       </div>
     </>
