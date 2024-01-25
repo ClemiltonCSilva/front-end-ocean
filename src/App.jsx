@@ -4,7 +4,8 @@ function App() {
   return (
     <>
       <div>
-        App
+        <h2> Clemilton Silva</h2>
+        <img src="https://rickandmortyapi.com/api/character/avatar/1.jpeg" />
       </div>
     </>
   )
