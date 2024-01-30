@@ -31,7 +31,7 @@ function App() {
         <Card item={item2} />
         <Card item={item3} />
         <Card item={item4} />*/}
-       {lista_card.map(item => <Card item={item}/>)} 
+       {lista_card.map((item, i) => <Card item={item} key={i}/>)} 
       </div>
     </>
   )
