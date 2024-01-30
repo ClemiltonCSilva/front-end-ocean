@@ -19,6 +19,8 @@ function App() {
     image: "https://rickandmortyapi.com/api/character/avatar/4.jpeg"  
   }
 
+
+  
   const   lista_card = [item1, item2, item3, item4] 
  
   return (
