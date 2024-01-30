@@ -16,3 +16,20 @@
 }
 
 
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 24px;
+  max-width: 300px;
+  justify-content: center;
+  }
+
+.tag{
+background: black;
+color: white;
+font-size: 12px;
+font-weight: bold;
+border-radius: 8px;
+padding: 4px 12px;
+}
